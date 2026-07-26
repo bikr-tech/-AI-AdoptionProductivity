@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8000";
+const BASE = "https://ai-adoptionproductivity.onrender.com/";
 
 export async function fetchSummary() {
   const res = await fetch(`${BASE}/analytics/summary`);
