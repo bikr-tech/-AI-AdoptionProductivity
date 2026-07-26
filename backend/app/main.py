@@ -6,11 +6,12 @@ import joblib
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.app.schemas import PredictionInput, PredictionOutput, SummaryResponse
+from app.schemas import PredictionInput, PredictionOutput, SummaryResponse
 
-MODEL_PATH = Path("backend/models/model.pkl")
-RAW_DATA = Path("data/raw/global_ai_adoption.csv")
-FEATURE_IMP_PATH = Path("output/figures/feature_importance.csv")
+_BACKEND_DIR = Path(__file__).resolve().parent.parent
+MODEL_PATH = _BACKEND_DIR / "models/model.pkl"
+RAW_DATA = _BACKEND_DIR.parent / "data/raw/global_ai_adoption.csv"
+FEATURE_IMP_PATH = _BACKEND_DIR.parent / "output/figures/feature_importance.csv"
 
 CAT_FEATURES = ["Industry", "Location", "Primary_AI_Tool"]
 NUM_FEATURES = ["Daily_Token_Usage", "Tasks_Automated_Per_Week", "Experience_Years"]

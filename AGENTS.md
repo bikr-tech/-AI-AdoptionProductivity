@@ -29,14 +29,13 @@ notebooks/
 ## Commands
 
 ```bash
-# Backend
+# Backend (run from backend/ directory)
 cd backend
 uv sync                          # Install deps from pyproject.toml
-uv run uvicorn backend.app.main:app --reload --port 8000
+uv run uvicorn app.main:app --reload --port 8000
 
 # Or without uv:
-pip install -r <(uv export --no-hashes)
-uvicorn backend.app.main:app --reload --port 8000
+uvicorn app.main:app --reload --port 8000
 
 # Frontend
 cd frontend
