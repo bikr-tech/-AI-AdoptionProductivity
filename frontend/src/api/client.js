@@ -1,6 +1,4 @@
-const BASE = import.meta.env.DEV
-  ? "http://localhost:8000"
-  : "";
+const BASE = import.meta.env.VITE_API_BASE || "http://localhost:8000";
 
 export async function fetchSummary() {
   const res = await fetch(`${BASE}/analytics/summary`);
