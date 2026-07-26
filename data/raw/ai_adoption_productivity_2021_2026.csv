@@ -1,0 +1,403 @@
+YearMonth,Industry,Primary Use Case,Global Active Users (Millions),Average Tokens/User/Day,Productivity Gain (%)
+2021-01,Software Development,Code Generation & Debugging,0.49,5248,4.9
+2021-01,Marketing & Content,Copywriting & SEO,1.24,2141,9.7
+2021-01,Customer Support,Automated Chatbots & Triage,0.83,3206,15.5
+2021-01,Healthcare,Medical Records & Diagnostics Assistance,0.1,937,1.9
+2021-01,Education,Lesson Planning & Tutoring,0.39,1594,7.6
+2021-01,Finance & Legal,Document Analysis & Data Extraction,0.2,4185,5.0
+2021-02,Software Development,Code Generation & Debugging,0.53,4692,9.8
+2021-02,Marketing & Content,Copywriting & SEO,1.29,1869,12.9
+2021-02,Customer Support,Automated Chatbots & Triage,0.81,3015,17.6
+2021-02,Healthcare,Medical Records & Diagnostics Assistance,0.1,1065,4.4
+2021-02,Education,Lesson Planning & Tutoring,0.41,1531,10.5
+2021-02,Finance & Legal,Document Analysis & Data Extraction,0.21,4247,7.8
+2021-03,Software Development,Code Generation & Debugging,0.55,5560,15.2
+2021-03,Marketing & Content,Copywriting & SEO,1.36,2140,15.0
+2021-03,Customer Support,Automated Chatbots & Triage,0.86,3279,20.6
+2021-03,Healthcare,Medical Records & Diagnostics Assistance,0.11,935,6.4
+2021-03,Education,Lesson Planning & Tutoring,0.46,1727,13.4
+2021-03,Finance & Legal,Document Analysis & Data Extraction,0.21,4542,9.6
+2021-04,Software Development,Code Generation & Debugging,0.6,5873,19.1
+2021-04,Marketing & Content,Copywriting & SEO,1.35,2096,18.6
+2021-04,Customer Support,Automated Chatbots & Triage,0.87,3510,24.4
+2021-04,Healthcare,Medical Records & Diagnostics Assistance,0.11,1061,8.0
+2021-04,Education,Lesson Planning & Tutoring,0.46,1685,15.8
+2021-04,Finance & Legal,Document Analysis & Data Extraction,0.21,4671,11.2
+2021-05,Software Development,Code Generation & Debugging,0.58,5594,21.1
+2021-05,Marketing & Content,Copywriting & SEO,1.45,2256,20.9
+2021-05,Customer Support,Automated Chatbots & Triage,1.0,3623,28.3
+2021-05,Healthcare,Medical Records & Diagnostics Assistance,0.11,1106,10.3
+2021-05,Education,Lesson Planning & Tutoring,0.49,1871,17.5
+2021-05,Finance & Legal,Document Analysis & Data Extraction,0.23,4301,13.7
+2021-06,Software Development,Code Generation & Debugging,0.63,6203,24.4
+2021-06,Marketing & Content,Copywriting & SEO,1.5,2246,21.9
+2021-06,Customer Support,Automated Chatbots & Triage,1.0,3502,30.3
+2021-06,Healthcare,Medical Records & Diagnostics Assistance,0.11,1044,11.2
+2021-06,Education,Lesson Planning & Tutoring,0.51,1776,18.3
+2021-06,Finance & Legal,Document Analysis & Data Extraction,0.23,4895,14.5
+2021-07,Software Development,Code Generation & Debugging,0.65,5542,29.3
+2021-07,Marketing & Content,Copywriting & SEO,1.54,2555,23.0
+2021-07,Customer Support,Automated Chatbots & Triage,1.09,3260,32.8
+2021-07,Healthcare,Medical Records & Diagnostics Assistance,0.12,1083,13.0
+2021-07,Education,Lesson Planning & Tutoring,0.55,2057,20.3
+2021-07,Finance & Legal,Document Analysis & Data Extraction,0.23,4750,16.5
+2021-08,Software Development,Code Generation & Debugging,0.67,6048,31.0
+2021-08,Marketing & Content,Copywriting & SEO,1.54,2306,26.3
+2021-08,Customer Support,Automated Chatbots & Triage,1.06,4018,33.8
+2021-08,Healthcare,Medical Records & Diagnostics Assistance,0.12,1200,13.6
+2021-08,Education,Lesson Planning & Tutoring,0.57,2275,22.1
+2021-08,Finance & Legal,Document Analysis & Data Extraction,0.25,5119,17.3
+2021-09,Software Development,Code Generation & Debugging,0.76,6058,33.3
+2021-09,Marketing & Content,Copywriting & SEO,1.61,2545,26.2
+2021-09,Customer Support,Automated Chatbots & Triage,1.12,3853,33.6
+2021-09,Healthcare,Medical Records & Diagnostics Assistance,0.12,1041,14.9
+2021-09,Education,Lesson Planning & Tutoring,0.65,2119,22.4
+2021-09,Finance & Legal,Document Analysis & Data Extraction,0.25,5243,19.0
+2021-10,Software Development,Code Generation & Debugging,0.76,6314,37.2
+2021-10,Marketing & Content,Copywriting & SEO,1.66,2559,29.7
+2021-10,Customer Support,Automated Chatbots & Triage,1.16,4203,36.9
+2021-10,Healthcare,Medical Records & Diagnostics Assistance,0.12,1099,16.1
+2021-10,Education,Lesson Planning & Tutoring,0.67,2116,23.5
+2021-10,Finance & Legal,Document Analysis & Data Extraction,0.26,4474,21.0
+2021-11,Software Development,Code Generation & Debugging,0.76,7359,37.2
+2021-11,Marketing & Content,Copywriting & SEO,1.72,2336,28.8
+2021-11,Customer Support,Automated Chatbots & Triage,1.26,3901,37.4
+2021-11,Healthcare,Medical Records & Diagnostics Assistance,0.13,1171,16.7
+2021-11,Education,Lesson Planning & Tutoring,0.71,2605,25.1
+2021-11,Finance & Legal,Document Analysis & Data Extraction,0.28,4716,22.1
+2021-12,Software Development,Code Generation & Debugging,0.8,6458,40.2
+2021-12,Marketing & Content,Copywriting & SEO,1.88,2862,31.8
+2021-12,Customer Support,Automated Chatbots & Triage,1.26,3900,40.4
+2021-12,Healthcare,Medical Records & Diagnostics Assistance,0.13,1262,17.8
+2021-12,Education,Lesson Planning & Tutoring,0.75,2281,27.1
+2021-12,Finance & Legal,Document Analysis & Data Extraction,0.29,5063,23.3
+2022-01,Software Development,Code Generation & Debugging,0.86,7505,40.8
+2022-01,Marketing & Content,Copywriting & SEO,1.82,2608,30.5
+2022-01,Customer Support,Automated Chatbots & Triage,1.3,3994,41.1
+2022-01,Healthcare,Medical Records & Diagnostics Assistance,0.14,1238,17.7
+2022-01,Education,Lesson Planning & Tutoring,0.74,2695,26.4
+2022-01,Finance & Legal,Document Analysis & Data Extraction,0.3,5074,21.8
+2022-02,Software Development,Code Generation & Debugging,0.92,7992,42.5
+2022-02,Marketing & Content,Copywriting & SEO,1.94,3061,32.2
+2022-02,Customer Support,Automated Chatbots & Triage,1.36,4575,42.5
+2022-02,Healthcare,Medical Records & Diagnostics Assistance,0.13,1285,19.4
+2022-02,Education,Lesson Planning & Tutoring,0.81,2679,27.7
+2022-02,Finance & Legal,Document Analysis & Data Extraction,0.31,5363,23.1
+2022-03,Software Development,Code Generation & Debugging,0.97,8370,42.6
+2022-03,Marketing & Content,Copywriting & SEO,2.05,2695,34.7
+2022-03,Customer Support,Automated Chatbots & Triage,1.45,4766,40.1
+2022-03,Healthcare,Medical Records & Diagnostics Assistance,0.14,1245,20.4
+2022-03,Education,Lesson Planning & Tutoring,0.83,2957,29.1
+2022-03,Finance & Legal,Document Analysis & Data Extraction,0.33,5673,24.1
+2022-04,Software Development,Code Generation & Debugging,1.0,8224,45.1
+2022-04,Marketing & Content,Copywriting & SEO,2.14,3098,35.2
+2022-04,Customer Support,Automated Chatbots & Triage,1.58,4413,43.2
+2022-04,Healthcare,Medical Records & Diagnostics Assistance,0.14,1196,20.4
+2022-04,Education,Lesson Planning & Tutoring,0.95,2970,29.1
+2022-04,Finance & Legal,Document Analysis & Data Extraction,0.31,5639,25.9
+2022-05,Software Development,Code Generation & Debugging,1.06,8769,46.7
+2022-05,Marketing & Content,Copywriting & SEO,2.3,2728,33.6
+2022-05,Customer Support,Automated Chatbots & Triage,1.63,4907,43.8
+2022-05,Healthcare,Medical Records & Diagnostics Assistance,0.15,1262,20.2
+2022-05,Education,Lesson Planning & Tutoring,0.96,3149,31.4
+2022-05,Finance & Legal,Document Analysis & Data Extraction,0.32,6300,26.4
+2022-06,Software Development,Code Generation & Debugging,1.16,9171,45.6
+2022-06,Marketing & Content,Copywriting & SEO,2.18,3363,35.2
+2022-06,Customer Support,Automated Chatbots & Triage,1.75,5375,43.8
+2022-06,Healthcare,Medical Records & Diagnostics Assistance,0.16,1352,22.0
+2022-06,Education,Lesson Planning & Tutoring,1.03,2981,30.2
+2022-06,Finance & Legal,Document Analysis & Data Extraction,0.34,6085,25.7
+2022-07,Software Development,Code Generation & Debugging,1.18,9401,47.1
+2022-07,Marketing & Content,Copywriting & SEO,2.39,3346,36.5
+2022-07,Customer Support,Automated Chatbots & Triage,1.69,5472,45.7
+2022-07,Healthcare,Medical Records & Diagnostics Assistance,0.16,1305,20.7
+2022-07,Education,Lesson Planning & Tutoring,1.03,3314,31.4
+2022-07,Finance & Legal,Document Analysis & Data Extraction,0.34,6289,26.4
+2022-08,Software Development,Code Generation & Debugging,1.16,9235,49.1
+2022-08,Marketing & Content,Copywriting & SEO,2.55,3180,36.1
+2022-08,Customer Support,Automated Chatbots & Triage,1.92,5660,43.2
+2022-08,Healthcare,Medical Records & Diagnostics Assistance,0.17,1497,22.1
+2022-08,Education,Lesson Planning & Tutoring,1.17,3628,32.0
+2022-08,Finance & Legal,Document Analysis & Data Extraction,0.37,6117,26.3
+2022-09,Software Development,Code Generation & Debugging,1.32,8684,48.9
+2022-09,Marketing & Content,Copywriting & SEO,2.66,3193,37.5
+2022-09,Customer Support,Automated Chatbots & Triage,1.85,4852,44.1
+2022-09,Healthcare,Medical Records & Diagnostics Assistance,0.16,1315,21.2
+2022-09,Education,Lesson Planning & Tutoring,1.18,3617,30.8
+2022-09,Finance & Legal,Document Analysis & Data Extraction,0.37,6148,26.9
+2022-10,Software Development,Code Generation & Debugging,1.35,9633,51.2
+2022-10,Marketing & Content,Copywriting & SEO,2.57,3652,36.7
+2022-10,Customer Support,Automated Chatbots & Triage,1.98,5983,46.5
+2022-10,Healthcare,Medical Records & Diagnostics Assistance,0.18,1450,22.5
+2022-10,Education,Lesson Planning & Tutoring,1.3,3869,32.7
+2022-10,Finance & Legal,Document Analysis & Data Extraction,0.4,6004,28.4
+2022-11,Software Development,Code Generation & Debugging,4.95,10618,53.9
+2022-11,Marketing & Content,Copywriting & SEO,10.05,3738,41.6
+2022-11,Customer Support,Automated Chatbots & Triage,7.07,5645,52.2
+2022-11,Healthcare,Medical Records & Diagnostics Assistance,0.62,1403,26.6
+2022-11,Education,Lesson Planning & Tutoring,4.85,4435,37.7
+2022-11,Finance & Legal,Document Analysis & Data Extraction,1.39,6004,32.6
+2022-12,Software Development,Code Generation & Debugging,5.25,10642,53.4
+2022-12,Marketing & Content,Copywriting & SEO,9.51,3627,42.4
+2022-12,Customer Support,Automated Chatbots & Triage,7.47,6014,52.7
+2022-12,Healthcare,Medical Records & Diagnostics Assistance,0.61,1348,26.7
+2022-12,Education,Lesson Planning & Tutoring,4.94,4739,38.2
+2022-12,Finance & Legal,Document Analysis & Data Extraction,1.5,7374,31.3
+2023-01,Software Development,Code Generation & Debugging,5.34,10729,56.6
+2023-01,Marketing & Content,Copywriting & SEO,10.0,3693,43.1
+2023-01,Customer Support,Automated Chatbots & Triage,7.96,6454,52.3
+2023-01,Healthcare,Medical Records & Diagnostics Assistance,0.65,1566,27.4
+2023-01,Education,Lesson Planning & Tutoring,5.25,4888,39.5
+2023-01,Finance & Legal,Document Analysis & Data Extraction,1.54,6255,31.6
+2023-02,Software Development,Code Generation & Debugging,5.36,10624,55.6
+2023-02,Marketing & Content,Copywriting & SEO,10.73,3942,43.3
+2023-02,Customer Support,Automated Chatbots & Triage,8.25,6658,53.6
+2023-02,Healthcare,Medical Records & Diagnostics Assistance,0.65,1376,28.0
+2023-02,Education,Lesson Planning & Tutoring,5.65,4927,36.5
+2023-02,Finance & Legal,Document Analysis & Data Extraction,1.6,6665,33.4
+2023-03,Software Development,Code Generation & Debugging,5.86,11673,58.5
+2023-03,Marketing & Content,Copywriting & SEO,10.9,3553,43.9
+2023-03,Customer Support,Automated Chatbots & Triage,8.42,5754,54.1
+2023-03,Healthcare,Medical Records & Diagnostics Assistance,0.69,1545,29.7
+2023-03,Education,Lesson Planning & Tutoring,5.68,5367,37.7
+2023-03,Finance & Legal,Document Analysis & Data Extraction,1.54,7764,35.0
+2023-04,Software Development,Code Generation & Debugging,6.06,11510,54.5
+2023-04,Marketing & Content,Copywriting & SEO,11.67,4124,45.0
+2023-04,Customer Support,Automated Chatbots & Triage,8.84,7097,54.7
+2023-04,Healthcare,Medical Records & Diagnostics Assistance,0.73,1491,29.4
+2023-04,Education,Lesson Planning & Tutoring,6.35,5656,40.1
+2023-04,Finance & Legal,Document Analysis & Data Extraction,1.73,7247,34.7
+2023-05,Software Development,Code Generation & Debugging,6.75,12225,55.9
+2023-05,Marketing & Content,Copywriting & SEO,12.33,3700,43.2
+2023-05,Customer Support,Automated Chatbots & Triage,9.82,6971,51.4
+2023-05,Healthcare,Medical Records & Diagnostics Assistance,0.71,1428,29.6
+2023-05,Education,Lesson Planning & Tutoring,6.88,6078,38.2
+2023-05,Finance & Legal,Document Analysis & Data Extraction,1.78,8198,32.0
+2023-06,Software Development,Code Generation & Debugging,6.7,12523,58.7
+2023-06,Marketing & Content,Copywriting & SEO,13.04,4537,44.1
+2023-06,Customer Support,Automated Chatbots & Triage,9.52,7244,52.4
+2023-06,Healthcare,Medical Records & Diagnostics Assistance,0.73,1562,29.6
+2023-06,Education,Lesson Planning & Tutoring,7.21,5822,39.6
+2023-06,Finance & Legal,Document Analysis & Data Extraction,1.77,8178,34.2
+2023-07,Software Development,Code Generation & Debugging,7.2,12848,57.7
+2023-07,Marketing & Content,Copywriting & SEO,13.15,4743,45.0
+2023-07,Customer Support,Automated Chatbots & Triage,9.88,6678,53.7
+2023-07,Healthcare,Medical Records & Diagnostics Assistance,0.79,1522,29.2
+2023-07,Education,Lesson Planning & Tutoring,7.5,6446,37.7
+2023-07,Finance & Legal,Document Analysis & Data Extraction,1.76,8375,32.6
+2023-08,Software Development,Code Generation & Debugging,7.37,12115,58.9
+2023-08,Marketing & Content,Copywriting & SEO,13.46,4629,45.5
+2023-08,Customer Support,Automated Chatbots & Triage,11.33,7575,55.0
+2023-08,Healthcare,Medical Records & Diagnostics Assistance,0.74,1652,30.0
+2023-08,Education,Lesson Planning & Tutoring,7.71,6367,39.8
+2023-08,Finance & Legal,Document Analysis & Data Extraction,1.83,7767,35.5
+2023-09,Software Development,Code Generation & Debugging,7.67,13678,57.0
+2023-09,Marketing & Content,Copywriting & SEO,14.47,4106,42.3
+2023-09,Customer Support,Automated Chatbots & Triage,11.1,7852,54.7
+2023-09,Healthcare,Medical Records & Diagnostics Assistance,0.81,1654,29.9
+2023-09,Education,Lesson Planning & Tutoring,8.55,7299,38.8
+2023-09,Finance & Legal,Document Analysis & Data Extraction,1.88,8949,34.2
+2023-10,Software Development,Code Generation & Debugging,7.93,15679,57.0
+2023-10,Marketing & Content,Copywriting & SEO,14.29,5005,44.3
+2023-10,Customer Support,Automated Chatbots & Triage,12.12,8421,54.3
+2023-10,Healthcare,Medical Records & Diagnostics Assistance,0.84,1562,28.7
+2023-10,Education,Lesson Planning & Tutoring,8.41,6391,40.4
+2023-10,Finance & Legal,Document Analysis & Data Extraction,2.04,8900,33.5
+2023-11,Software Development,Code Generation & Debugging,8.68,13721,58.7
+2023-11,Marketing & Content,Copywriting & SEO,14.91,4970,44.7
+2023-11,Customer Support,Automated Chatbots & Triage,11.85,8074,55.6
+2023-11,Healthcare,Medical Records & Diagnostics Assistance,0.82,1823,28.4
+2023-11,Education,Lesson Planning & Tutoring,9.32,7147,37.9
+2023-11,Finance & Legal,Document Analysis & Data Extraction,2.0,8081,34.7
+2023-12,Software Development,Code Generation & Debugging,9.35,15778,57.1
+2023-12,Marketing & Content,Copywriting & SEO,16.06,4987,44.3
+2023-12,Customer Support,Automated Chatbots & Triage,12.71,8424,55.4
+2023-12,Healthcare,Medical Records & Diagnostics Assistance,0.83,1869,30.4
+2023-12,Education,Lesson Planning & Tutoring,9.35,6989,38.4
+2023-12,Finance & Legal,Document Analysis & Data Extraction,2.16,8793,33.1
+2024-01,Software Development,Code Generation & Debugging,9.79,14646,56.6
+2024-01,Marketing & Content,Copywriting & SEO,16.16,4835,45.0
+2024-01,Customer Support,Automated Chatbots & Triage,13.36,8112,51.5
+2024-01,Healthcare,Medical Records & Diagnostics Assistance,0.88,1955,28.8
+2024-01,Education,Lesson Planning & Tutoring,10.14,8275,39.6
+2024-01,Finance & Legal,Document Analysis & Data Extraction,2.23,9735,35.3
+2024-02,Software Development,Code Generation & Debugging,10.05,15483,61.3
+2024-02,Marketing & Content,Copywriting & SEO,17.32,4747,45.1
+2024-02,Customer Support,Automated Chatbots & Triage,13.49,8299,56.5
+2024-02,Healthcare,Medical Records & Diagnostics Assistance,0.88,1753,29.9
+2024-02,Education,Lesson Planning & Tutoring,10.81,7856,41.4
+2024-02,Finance & Legal,Document Analysis & Data Extraction,2.37,9831,33.9
+2024-03,Software Development,Code Generation & Debugging,10.05,16269,58.9
+2024-03,Marketing & Content,Copywriting & SEO,17.48,5798,44.9
+2024-03,Customer Support,Automated Chatbots & Triage,15.28,9267,55.2
+2024-03,Healthcare,Medical Records & Diagnostics Assistance,0.95,2039,28.7
+2024-03,Education,Lesson Planning & Tutoring,11.02,8119,40.5
+2024-03,Finance & Legal,Document Analysis & Data Extraction,2.32,10168,35.2
+2024-04,Software Development,Code Generation & Debugging,10.25,18638,57.2
+2024-04,Marketing & Content,Copywriting & SEO,18.86,5122,44.5
+2024-04,Customer Support,Automated Chatbots & Triage,14.8,9402,52.9
+2024-04,Healthcare,Medical Records & Diagnostics Assistance,0.99,1725,29.7
+2024-04,Education,Lesson Planning & Tutoring,12.28,8465,40.2
+2024-04,Finance & Legal,Document Analysis & Data Extraction,2.35,9789,36.1
+2024-05,Software Development,Code Generation & Debugging,22.55,16941,66.1
+2024-05,Marketing & Content,Copywriting & SEO,38.09,5180,50.3
+2024-05,Customer Support,Automated Chatbots & Triage,31.55,9340,63.6
+2024-05,Healthcare,Medical Records & Diagnostics Assistance,1.92,1798,37.1
+2024-05,Education,Lesson Planning & Tutoring,24.49,10619,45.5
+2024-05,Finance & Legal,Document Analysis & Data Extraction,4.95,10391,44.3
+2024-06,Software Development,Code Generation & Debugging,22.9,18579,69.0
+2024-06,Marketing & Content,Copywriting & SEO,37.77,5880,53.6
+2024-06,Customer Support,Automated Chatbots & Triage,32.96,10169,61.0
+2024-06,Healthcare,Medical Records & Diagnostics Assistance,2.01,2088,37.4
+2024-06,Education,Lesson Planning & Tutoring,27.15,9534,45.9
+2024-06,Finance & Legal,Document Analysis & Data Extraction,5.23,9408,42.4
+2024-07,Software Development,Code Generation & Debugging,25.8,19595,65.7
+2024-07,Marketing & Content,Copywriting & SEO,39.09,6154,53.4
+2024-07,Customer Support,Automated Chatbots & Triage,34.27,9093,64.8
+2024-07,Healthcare,Medical Records & Diagnostics Assistance,2.04,2024,36.4
+2024-07,Education,Lesson Planning & Tutoring,29.4,11598,47.1
+2024-07,Finance & Legal,Document Analysis & Data Extraction,5.06,9808,41.2
+2024-08,Software Development,Code Generation & Debugging,25.2,20307,66.4
+2024-08,Marketing & Content,Copywriting & SEO,41.31,6331,52.3
+2024-08,Customer Support,Automated Chatbots & Triage,36.59,11286,65.5
+2024-08,Healthcare,Medical Records & Diagnostics Assistance,2.07,2094,37.5
+2024-08,Education,Lesson Planning & Tutoring,30.93,10302,46.1
+2024-08,Finance & Legal,Document Analysis & Data Extraction,5.41,10503,40.7
+2024-09,Software Development,Code Generation & Debugging,28.48,20683,67.4
+2024-09,Marketing & Content,Copywriting & SEO,44.87,5963,55.0
+2024-09,Customer Support,Automated Chatbots & Triage,38.63,11075,61.5
+2024-09,Healthcare,Medical Records & Diagnostics Assistance,2.19,2001,37.5
+2024-09,Education,Lesson Planning & Tutoring,30.64,10713,50.0
+2024-09,Finance & Legal,Document Analysis & Data Extraction,5.61,11620,43.0
+2024-10,Software Development,Code Generation & Debugging,29.43,22200,66.0
+2024-10,Marketing & Content,Copywriting & SEO,45.18,6246,53.7
+2024-10,Customer Support,Automated Chatbots & Triage,38.33,10965,65.2
+2024-10,Healthcare,Medical Records & Diagnostics Assistance,2.28,2143,36.0
+2024-10,Education,Lesson Planning & Tutoring,33.24,11347,48.1
+2024-10,Finance & Legal,Document Analysis & Data Extraction,6.09,11879,43.8
+2024-11,Software Development,Code Generation & Debugging,29.44,22085,68.6
+2024-11,Marketing & Content,Copywriting & SEO,49.86,6898,51.0
+2024-11,Customer Support,Automated Chatbots & Triage,43.77,10322,65.6
+2024-11,Healthcare,Medical Records & Diagnostics Assistance,2.27,2255,37.5
+2024-11,Education,Lesson Planning & Tutoring,36.37,12635,46.4
+2024-11,Finance & Legal,Document Analysis & Data Extraction,5.77,12368,43.6
+2024-12,Software Development,Code Generation & Debugging,32.01,21802,70.2
+2024-12,Marketing & Content,Copywriting & SEO,48.93,6326,52.8
+2024-12,Customer Support,Automated Chatbots & Triage,44.4,10654,62.1
+2024-12,Healthcare,Medical Records & Diagnostics Assistance,2.25,2040,37.5
+2024-12,Education,Lesson Planning & Tutoring,39.22,12493,46.1
+2024-12,Finance & Legal,Document Analysis & Data Extraction,6.12,10484,44.9
+2025-01,Software Development,Code Generation & Debugging,31.63,24100,71.1
+2025-01,Marketing & Content,Copywriting & SEO,51.96,7377,52.3
+2025-01,Customer Support,Automated Chatbots & Triage,43.48,13096,63.2
+2025-01,Healthcare,Medical Records & Diagnostics Assistance,2.51,2093,37.5
+2025-01,Education,Lesson Planning & Tutoring,39.99,12811,49.0
+2025-01,Finance & Legal,Document Analysis & Data Extraction,6.66,11375,43.5
+2025-02,Software Development,Code Generation & Debugging,34.07,25659,68.6
+2025-02,Marketing & Content,Copywriting & SEO,55.29,6962,51.4
+2025-02,Customer Support,Automated Chatbots & Triage,48.42,12070,62.2
+2025-02,Healthcare,Medical Records & Diagnostics Assistance,2.51,2083,37.1
+2025-02,Education,Lesson Planning & Tutoring,43.02,15551,47.4
+2025-02,Finance & Legal,Document Analysis & Data Extraction,6.31,12345,41.4
+2025-03,Software Development,Code Generation & Debugging,35.33,25253,67.9
+2025-03,Marketing & Content,Copywriting & SEO,55.3,7659,52.3
+2025-03,Customer Support,Automated Chatbots & Triage,51.16,12804,65.0
+2025-03,Healthcare,Medical Records & Diagnostics Assistance,2.51,2278,37.5
+2025-03,Education,Lesson Planning & Tutoring,42.49,16373,49.5
+2025-03,Finance & Legal,Document Analysis & Data Extraction,7.14,13018,43.0
+2025-04,Software Development,Code Generation & Debugging,37.06,24569,68.7
+2025-04,Marketing & Content,Copywriting & SEO,59.95,7160,50.4
+2025-04,Customer Support,Automated Chatbots & Triage,50.74,11984,64.1
+2025-04,Healthcare,Medical Records & Diagnostics Assistance,2.62,2164,36.4
+2025-04,Education,Lesson Planning & Tutoring,45.62,14762,50.2
+2025-04,Finance & Legal,Document Analysis & Data Extraction,7.07,11575,42.9
+2025-05,Software Development,Code Generation & Debugging,41.13,25070,66.6
+2025-05,Marketing & Content,Copywriting & SEO,61.11,7265,52.3
+2025-05,Customer Support,Automated Chatbots & Triage,54.82,13666,64.8
+2025-05,Healthcare,Medical Records & Diagnostics Assistance,2.66,2399,37.5
+2025-05,Education,Lesson Planning & Tutoring,49.83,17180,48.1
+2025-05,Finance & Legal,Document Analysis & Data Extraction,7.4,12036,43.6
+2025-06,Software Development,Code Generation & Debugging,39.9,24344,70.9
+2025-06,Marketing & Content,Copywriting & SEO,60.92,8159,54.2
+2025-06,Customer Support,Automated Chatbots & Triage,56.06,13263,61.2
+2025-06,Healthcare,Medical Records & Diagnostics Assistance,2.71,2576,37.5
+2025-06,Education,Lesson Planning & Tutoring,52.05,17783,47.4
+2025-06,Finance & Legal,Document Analysis & Data Extraction,7.87,13298,42.6
+2025-07,Software Development,Code Generation & Debugging,42.19,30461,65.4
+2025-07,Marketing & Content,Copywriting & SEO,61.93,7733,54.6
+2025-07,Customer Support,Automated Chatbots & Triage,60.03,12936,65.0
+2025-07,Healthcare,Medical Records & Diagnostics Assistance,2.8,2451,37.5
+2025-07,Education,Lesson Planning & Tutoring,55.9,17968,49.9
+2025-07,Finance & Legal,Document Analysis & Data Extraction,7.86,14606,43.2
+2025-08,Software Development,Code Generation & Debugging,43.7,27236,65.3
+2025-08,Marketing & Content,Copywriting & SEO,68.21,7953,54.5
+2025-08,Customer Support,Automated Chatbots & Triage,62.61,15522,66.0
+2025-08,Healthcare,Medical Records & Diagnostics Assistance,2.85,2369,37.5
+2025-08,Education,Lesson Planning & Tutoring,58.84,21027,50.2
+2025-08,Finance & Legal,Document Analysis & Data Extraction,8.22,13836,43.2
+2025-09,Software Development,Code Generation & Debugging,45.53,27550,70.1
+2025-09,Marketing & Content,Copywriting & SEO,70.22,9063,53.8
+2025-09,Customer Support,Automated Chatbots & Triage,64.39,15692,61.6
+2025-09,Healthcare,Medical Records & Diagnostics Assistance,3.06,2522,36.1
+2025-09,Education,Lesson Planning & Tutoring,59.5,20933,48.3
+2025-09,Finance & Legal,Document Analysis & Data Extraction,8.01,15265,40.9
+2025-10,Software Development,Code Generation & Debugging,48.12,33516,66.6
+2025-10,Marketing & Content,Copywriting & SEO,75.53,8337,51.8
+2025-10,Customer Support,Automated Chatbots & Triage,67.57,15974,64.0
+2025-10,Healthcare,Medical Records & Diagnostics Assistance,2.94,2602,37.5
+2025-10,Education,Lesson Planning & Tutoring,65.61,19876,50.3
+2025-10,Finance & Legal,Document Analysis & Data Extraction,8.32,13500,40.9
+2025-11,Software Development,Code Generation & Debugging,54.27,30852,68.5
+2025-11,Marketing & Content,Copywriting & SEO,76.35,8145,52.7
+2025-11,Customer Support,Automated Chatbots & Triage,73.13,14784,64.6
+2025-11,Healthcare,Medical Records & Diagnostics Assistance,3.13,2744,36.7
+2025-11,Education,Lesson Planning & Tutoring,71.4,21361,46.5
+2025-11,Finance & Legal,Document Analysis & Data Extraction,8.55,15558,44.4
+2025-12,Software Development,Code Generation & Debugging,52.93,32486,65.5
+2025-12,Marketing & Content,Copywriting & SEO,79.87,9490,51.8
+2025-12,Customer Support,Automated Chatbots & Triage,75.9,17024,62.3
+2025-12,Healthcare,Medical Records & Diagnostics Assistance,3.04,2412,36.8
+2025-12,Education,Lesson Planning & Tutoring,75.22,24159,49.5
+2025-12,Finance & Legal,Document Analysis & Data Extraction,9.11,14771,42.9
+2026-01,Software Development,Code Generation & Debugging,59.36,80103,64.5
+2026-01,Marketing & Content,Copywriting & SEO,77.57,22080,50.5
+2026-01,Customer Support,Automated Chatbots & Triage,77.25,41333,60.8
+2026-01,Healthcare,Medical Records & Diagnostics Assistance,3.24,6268,37.5
+2026-01,Education,Lesson Planning & Tutoring,77.31,59846,46.3
+2026-01,Finance & Legal,Document Analysis & Data Extraction,9.23,39375,42.7
+2026-02,Software Development,Code Generation & Debugging,59.08,85516,68.5
+2026-02,Marketing & Content,Copywriting & SEO,85.29,24281,50.6
+2026-02,Customer Support,Automated Chatbots & Triage,77.65,42237,65.0
+2026-02,Healthcare,Medical Records & Diagnostics Assistance,3.21,6876,37.2
+2026-02,Education,Lesson Planning & Tutoring,77.26,66680,49.0
+2026-02,Finance & Legal,Document Analysis & Data Extraction,9.88,38986,41.6
+2026-03,Software Development,Code Generation & Debugging,65.89,98015,64.7
+2026-03,Marketing & Content,Copywriting & SEO,86.41,25570,51.9
+2026-03,Customer Support,Automated Chatbots & Triage,87.95,48594,59.9
+2026-03,Healthcare,Medical Records & Diagnostics Assistance,3.38,6559,37.2
+2026-03,Education,Lesson Planning & Tutoring,86.31,64840,50.3
+2026-03,Finance & Legal,Document Analysis & Data Extraction,9.61,38735,41.1
+2026-04,Software Development,Code Generation & Debugging,68.4,89485,67.8
+2026-04,Marketing & Content,Copywriting & SEO,88.13,26802,50.4
+2026-04,Customer Support,Automated Chatbots & Triage,89.4,49375,60.3
+2026-04,Healthcare,Medical Records & Diagnostics Assistance,3.39,6537,36.2
+2026-04,Education,Lesson Planning & Tutoring,91.19,76187,47.4
+2026-04,Finance & Legal,Document Analysis & Data Extraction,10.62,37973,44.3
+2026-05,Software Development,Code Generation & Debugging,67.24,91151,64.7
+2026-05,Marketing & Content,Copywriting & SEO,96.03,27607,50.7
+2026-05,Customer Support,Automated Chatbots & Triage,92.39,48797,64.1
+2026-05,Healthcare,Medical Records & Diagnostics Assistance,3.54,6897,37.5
+2026-05,Education,Lesson Planning & Tutoring,93.51,69722,49.7
+2026-05,Finance & Legal,Document Analysis & Data Extraction,11.19,42926,41.2
+2026-06,Software Development,Code Generation & Debugging,75.11,100750,70.9
+2026-06,Marketing & Content,Copywriting & SEO,96.33,25764,54.0
+2026-06,Customer Support,Automated Chatbots & Triage,95.36,49182,65.7
+2026-06,Healthcare,Medical Records & Diagnostics Assistance,3.75,7258,36.1
+2026-06,Education,Lesson Planning & Tutoring,98.56,84854,46.7
+2026-06,Finance & Legal,Document Analysis & Data Extraction,10.71,41133,42.7
+2026-07,Software Development,Code Generation & Debugging,74.51,91579,68.4
+2026-07,Marketing & Content,Copywriting & SEO,99.47,26035,54.5
+2026-07,Customer Support,Automated Chatbots & Triage,101.25,48729,62.3
+2026-07,Healthcare,Medical Records & Diagnostics Assistance,3.74,7972,37.0
+2026-07,Education,Lesson Planning & Tutoring,103.97,75454,46.3
+2026-07,Finance & Legal,Document Analysis & Data Extraction,11.96,44764,41.5
