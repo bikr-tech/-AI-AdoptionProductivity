@@ -1,0 +1,39 @@
+# Data
+data/raw/
+data/processed/
+*.csv
+*.parquet
+
+# Model artifacts
+backend/models/*.pkl
+backend/models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Notebooks (cleared outputs)
+.ipynb_checkpoints/
+
+# uv
+backend/uv.lock
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
