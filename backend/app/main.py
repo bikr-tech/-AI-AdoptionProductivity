@@ -33,7 +33,10 @@ app = FastAPI(title="Global AI Adoption & Productivity API", version="1.0.0", li
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://ai-adoptionproductivity.onrender.com",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
