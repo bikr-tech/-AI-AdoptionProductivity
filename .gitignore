@@ -5,8 +5,8 @@ data/processed/
 *.parquet
 
 # Model artifacts
-backend/models/*.pkl
-backend/models/*.joblib
+#backend/models/*.pkl
+#backend/models/*.joblib
 
 # Python
 __pycache__/
