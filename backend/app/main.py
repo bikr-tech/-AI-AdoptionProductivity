@@ -107,6 +107,20 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+def root():
+    return {
+        "service": "Global AI Adoption & Productivity API",
+        "version": "1.0.0",
+        "endpoints": {
+            "health": "GET /health",
+            "predict": "POST /predict",
+            "analytics_summary": "GET /analytics/summary",
+        },
+        "docs": "/docs",
+    }
+
+
 @app.get("/health")
 def health():
     return {"status": "ok", "model_loaded": pipeline is not None}
